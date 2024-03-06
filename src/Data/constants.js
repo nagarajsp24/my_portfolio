@@ -169,7 +169,7 @@ export const projects = [
     tags: ["HTML", "JavaScript", "Css"],
     category: "web app",
     github: "https://github.com/nagarajsp24/blog_it.git",
-    webapp: "https://nagarajsp24.github.io/blog_it/BlogIt.html",
+    webapp: "https://nagarajsp24.github.io/blog_it/BlogIt.html" ,
   },
   {
     id: 1,
