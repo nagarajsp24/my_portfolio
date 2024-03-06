@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/nagarajsp24",
-  resume:"#",
+  resume:"https://nagarajsp24.github.io/profile_credential/resume/Nagaraj%20SP%20(1).pdf",
   linkedin: "https://www.linkedin.com/in/nagaraj-s-penagondala",
   twitter: "#",
   insta: "#",
@@ -165,11 +165,11 @@ export const projects = [
     description:
       "BlogIt webpage features a modern design with parallax scrolling, a clean header, and nature-themed visuals. Dynamic JavaScript effects enhance user experience. Well-suited for showcasing front-end design and interactivity skills in a portfolio.",
     image:
-      "https://drive.google.com/file/d/1E69uZnCOcEMIJyT_2XHnksyfLLMweuO8/view?usp=sharing",
+      "https://nagarajsp24.github.io/profile_credential/images/BlogIt.png",
     tags: ["HTML", "JavaScript", "Css"],
     category: "web app",
     github: "https://github.com/nagarajsp24/blog_it.git",
-    webapp: "https://nagarajsp24.github.io/blog_it/BlogIt.html",
+    webapp: "https://nagarajsp24.github.io/blog_it/BlogIt.html" ,
   },
   {
     id: 1,
@@ -178,7 +178,7 @@ export const projects = [
     description:
       "This dynamic weather application utilizes the OpenWeatherMap API to provide accurate real-time weather information. Users can input a city, and the app displays temperature, city name, humidity, and wind speed, accompanied by visually appealing weather icons, creating an engaging and informative user experience.",
     image:
-      "https://drive.google.com/file/d/1ERlh3UEwQZme6dEluFHByGxcN5RSzZL4/view?usp=drive_link",
+      "https://nagarajsp24.github.io/profile_credential/images/weather.png",
     tags: ["HTML", "JavaScript", "Css"],
     category: "web app",
     github: "https://github.com/nagarajsp24/weathercard.git",
@@ -191,7 +191,7 @@ export const projects = [
     description:
       "This project showcases a modern and responsive website design, featuring a dynamic navigation menu with a mobile-friendly toggle. The hero section highlights cutting-edge technology, while the services section introduces AI-powered solutions. The footer provides easy navigation and social media links, ensuring a comprehensive online presence.",
     image:
-      "https://drive.google.com/file/d/1s1vhQiAac_dzQAO0ai86e1pUrCSHLtJq/view?usp=drive_link",
+      "https://nagarajsp24.github.io/profile_credential/images/web.png",
     tags: ["HTML", "JavaScript", "Css"],
     category: "web app",
     github: "https://github.com/nagarajsp24/nagaraj_e-com_project.git",

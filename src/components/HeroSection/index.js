@@ -38,7 +38,7 @@ const HeroLeftContainer = styled.div`
 width: 100%;
 order: 1;
 @media screen and (max-width: 960px) {
-    oder: 2;
+    order: 2;
     margin-bottom: 32px;
     display: flex;
     align-item: center;
